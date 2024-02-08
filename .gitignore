@@ -1,0 +1,6 @@
+
+Projects/*
+*.code-workspace
+**/.hidden/
+**/.temp/
+**/__pycache__/

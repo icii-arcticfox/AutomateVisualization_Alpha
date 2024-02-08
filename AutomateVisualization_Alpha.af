@@ -1,0 +1,23 @@
+{
+    "VSCodeWorkspaceFile": "AutomateVisualization_Alpha.code-workspace",
+    "ArcticFoxVersion": "0.12.2.115",
+    "ProjectName": "AutomateVisualization_Alpha",
+    "ProjectDescription": "",
+    "GeneratedLineIdentifier": "<>",
+    "VerilogFolders": [
+        "../../Code"
+    ],
+    "PathToVivadoProject": null,
+    "PathToVitisSrc": null,
+    "Tutorials": [],
+    "OpenFiles": [
+        "Code/Sandbox.py"
+    ],
+    "PythonAutomationNames": [],
+    "PackagesAdded": [
+        "MachineLearning"
+    ],
+    "SectionNames": null,
+    "SectionSubTitles": null,
+    "DotnetPackagesToAdd": []
+}
